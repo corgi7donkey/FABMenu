@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="fab_expandDirection" format="enum" >
+        <enum name="up" value="0" />
+        <enum name="down" value="1" />
+        <enum name="left" value="2" />
+        <enum name="right" value="3" />
+    </attr>
+    <attr name="add_fab_color" format="color" />
+    <attr name="add_fab_src" format="reference" />
+    <declare-styleable name="FloatingActionMenu" >
+        <attr name="fab_expandDirection"/>
+        <attr name="add_fab_color" />
+        <attr name="add_fab_src" />
+    </declare-styleable>
+</resources>
