@@ -189,11 +189,11 @@ public class FloatingActionMenu extends ViewGroup implements View.OnClickListene
 
     private void toggle() {
         if (isOpened) {
-            rotateView(add_fab, 270f, 0f, 200);
+            rotateView(add_fab, 315f, 0f, 200);
             closeMenu();
             isOpened = false;
         } else {
-            rotateView(add_fab, 0f, 270f, 200);
+            rotateView(add_fab, 0f, 315f, 200);
             openMenu();
             isOpened = true;
         }
