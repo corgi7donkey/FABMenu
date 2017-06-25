@@ -18,7 +18,6 @@ Step 2. Add the dependency
 	}
 	
 	
-![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)
   
   ```
 <com.sjb.bupt.mylibrary.FloatingActionMenu
