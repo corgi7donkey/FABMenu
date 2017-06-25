@@ -16,6 +16,9 @@ Step 2. Add the dependency
 	dependencies {
 	compile 'com.github.corgi7donkey:FABMenu:v1.1'
 	}
+	
+	
+![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)
   
   ```
 <com.sjb.bupt.mylibrary.FloatingActionMenu
