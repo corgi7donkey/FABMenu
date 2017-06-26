@@ -18,7 +18,7 @@ Step 2. Add the dependency
 	}
 	
 	
-![image](https://github.com/corgi7donkey/FABMenu/tree/master/mylibrary/src/main/res/drawable/imag.gif)
+![](https://github.com/corgi7donkey/FABMenu/tree/master/mylibrary/src/main/res/drawable/imag.gif)
   
   ```
 <com.sjb.bupt.mylibrary.FloatingActionMenu
